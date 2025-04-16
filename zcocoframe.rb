@@ -1,8 +1,8 @@
 class Zcocoframe < Formula
     desc "CLI tool to generate xcframeworks easily"
     homepage "https://github.com/hariTH-0828/zcocoframe"
-    url "https://github.com/hariTH-0828/zcocoframe/archive/refs/tags/V1.0.0.tar.gz"
-    sha256 "784eb055ae197b4cc69cc9a97c9fdc7022adb0d08747a6ad5a4b21d4f0d123c3"
+    url "https://github.com/hariTH-0828/zcocoframe/archive/refs/tags/V1.0.1.tar.gz"
+    sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     license "MIT"
   
     def install
