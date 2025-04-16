@@ -7,7 +7,7 @@ class Zcocoframe < Formula
   
     def install
       # First, make the script executable
-      chmod "+x", "zcocoframe.sh"
+      chmod 0755, "zcocoframe.sh"
       # Then install it
       bin.install "zcocoframe.sh" => "zcocoframe"
     end
